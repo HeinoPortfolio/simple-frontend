@@ -1,1 +1,1 @@
-# hello-cors
+# simple-frontend
